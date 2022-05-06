@@ -1,4 +1,4 @@
-# service: rbp-admin
+# service: raindustries-web
 runtime: nodejs12
 
 handlers:

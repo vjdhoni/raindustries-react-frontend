@@ -1,0 +1,22 @@
+.service {
+    position: absolute;
+    background-color: rgba(234, 225, 225, 0.9);
+    display: inline-block;
+    width: 100%;
+    height: auto;
+    top: 800px;
+}
+
+div.wrapper {
+    background-color: white;
+    padding: 10px;
+    margin: 12px 0px;
+}
+
+div.body {}
+
+div.serImg {
+    height: 200px;
+    align-items: center;
+    padding: 10px;
+}
